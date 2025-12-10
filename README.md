@@ -47,28 +47,6 @@ Source: [Kaggle](https://www.kaggle.com/datasets/lava18/google-play-store-apps)
 
 5. **EVENTS and EDUCATION** are underserved but have the highest ratings. Opportunity?
 
-## Visualizations
-
-All charts are saved in the `figures/` folder:
-
-| # | Chart | What it shows |
-|---|-------|---------------|
-| 01 | Rating Distribution | Most apps rated 4.0-4.5 |
-| 02 | Category Distribution | FAMILY has most apps |
-| 03 | Free vs Paid | 92.6% free, but paid rates higher |
-| 04 | Content Rating | Mostly "Everyone" |
-| 05 | Install Distribution | Wide range |
-| 06 | Rating by Category | EVENTS tops the list |
-| 07 | Installs by Category | GAME wins by far |
-| 08 | Correlation Matrix | Reviews & Installs linked |
-| 09 | Reviews vs Installs | Clear positive trend |
-| 10 | Sentiment Distribution | 64% positive |
-| 11 | Sentiment Polarity | Slightly positive overall |
-| 12 | Top Apps by Sentiment | Best & worst rated |
-| 13 | Rating vs Sentiment | They correlate! |
-| 14 | Price Analysis | Most paid apps under $5 |
-| 15 | Top Apps | Facebook, WhatsApp lead |
-| 16 | Dashboard | Everything at a glance |
 
 ## Project Structure
 
