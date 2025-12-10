@@ -1,11 +1,6 @@
 # Google Play Store Apps Analysis 
 
 Exploratory Data Analysis on 10,000+ Android apps and 37,000+ user reviews.
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Status](https://img.shields.io/badge/Status-Complete-green)
-
 ---
 
 ## About
