@@ -1,4 +1,4 @@
-# Google Play Store Apps Analysis 📱
+# Google Play Store Apps Analysis 
 
 Exploratory Data Analysis on 10,000+ Android apps and 37,000+ user reviews.
 
@@ -88,25 +88,8 @@ All charts are saved in the `figures/` folder:
 └── README.md
 ```
 
-## How to Run
 
-1. Clone the repo
-```bash
-git clone https://github.com/yourusername/google-playstore-analysis.git
-cd google-playstore-analysis
-```
 
-2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the notebook
-```bash
-jupyter notebook google_playstore_analysis.ipynb
-```
-
-4. Run all cells - figures and cleaned data will be saved automatically
 
 ## Tech Stack
 
@@ -128,5 +111,4 @@ Based on this analysis:
 
 ---
 
-Made with ☕ and Python
 
